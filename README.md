@@ -1,10 +1,4 @@
 # Project-Rock-Paper-Scissors
-
-<!DOCTYPE html>
-    <head>
-
-    </head>
-    <body>
         <script>
             
             function game() {
@@ -87,5 +81,3 @@
                 return initial.toUpperCase() + afterInitial.toLowerCase();
             }
         </script>
-    </body>
-</html>
